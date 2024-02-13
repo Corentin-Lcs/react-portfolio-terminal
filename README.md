@@ -1,6 +1,5 @@
 <h1 align="center">React Portfolio Terminal</h1>
 
-
 The "React Portfolio Terminal" GitHub project is a React-based terminal application to create a interactive portfolio experience. With the terminal-inspired design, visitors can navigate through my portfolio using commands, accessing different sections, viewing project details, and exploring my expertise effortlessly. 
 
 <p align="center">
